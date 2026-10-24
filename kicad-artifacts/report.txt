@@ -1,0 +1,45 @@
+KiCad Export Report
+===================
+
+Project: 2026-ProgBuddy
+Run at: 2026-10-24 14:43:57
+Duration: 19s
+KiCad Type: Native
+
+Render settings:
+  Quality: high
+  Resolution: 1400x1400
+  Isometric rotation: 315,0,45
+
+Gerber layers:
+  F.Cu,In1.Cu,In2.Cu,B.Cu,F.Mask,B.Mask,F.Paste,B.Paste,F.SilkS,B.SilkS,Edge.Cuts
+
+Drill:
+  Format: Excellon
+  Map: PDF
+
+Placement:
+  Format: CSV
+  Units: mm
+  Side: both
+
+Interactive BOM:
+  Fields: Value, Footprint, MF, MPN
+  Grouped by: Value, Footprint
+  DNP filtering: Enabled (kicad_dnp field)
+  Layout: left-right
+  Layer view: Front
+
+Generated files:
+2026-ProgBuddy_board.step
+2026-ProgBuddy_bom.csv
+2026-ProgBuddy_gerbers.zip
+2026-ProgBuddy_pcb.pdf
+2026-ProgBuddy_placement.csv
+2026-ProgBuddy_render-bottom.png
+2026-ProgBuddy_render-iso.png
+2026-ProgBuddy_render-top.png
+2026-ProgBuddy_schematic.pdf
+build.log
+drill
+ibom.html

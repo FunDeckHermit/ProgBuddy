@@ -1,0 +1,436 @@
+Detected gerber layers: F.Cu,In1.Cu,In2.Cu,B.Cu,F.Mask,B.Mask,F.Paste,B.Paste,F.SilkS,B.SilkS,Edge.Cuts
+→ Exporting schematic PDF
+Plotted to '/tmp/tmp.xsz22EpbOW/2026-ProgBuddy_schematic.pdf'.
+Done.
+→ Exporting PCB PDF
+Plotted to '/tmp/tmp.xsz22EpbOW/2026-ProgBuddy_pcb.pdf'.
+Done.
+→ Exporting top render
+Loading…
+Build board outline
+
+Create layers
+Create tracks and vias
+Create zones
+Build Tech layers
+Build Tech layer 11
+Build Tech layer 9
+Build Tech layer 15
+Build Tech layer 13
+Build Tech layer 7
+Build Tech layer 5
+Build Tech layer 3
+Build Tech layer 1
+Build Tech layer 17
+Build Tech layer 19
+Build Tech layer 21
+Build Tech layer 23
+Build Tech layer 39
+Build Tech layer 41
+Build Tech layer 43
+Build Tech layer 45
+Build Tech layer 47
+Build Tech layer 49
+Build Tech layer 51
+Build Tech layer 53
+Build Tech layer 55
+Build Tech layer 57
+Build Tech layer 59
+Build Tech layer 61
+Build Tech layer 63
+Build Tech layer 65
+Build Tech layer 67
+Build Tech layer 69
+Build Tech layer 71
+Build Tech layer 73
+Build Tech layer 75
+Build Tech layer 77
+Build Tech layer 79
+Build Tech layer 81
+Build Tech layer 83
+Build Tech layer 85
+Build Tech layer 87
+Build Tech layer 89
+Build Tech layer 91
+Build Tech layer 93
+Build Tech layer 95
+Build Tech layer 97
+Build Tech layer 99
+Build Tech layer 101
+Build Tech layer 103
+Build Tech layer 105
+Build Tech layer 107
+Build Tech layer 109
+Build Tech layer 111
+Build Tech layer 113
+Build Tech layer 115
+Build Tech layer 117
+Build Tech layer 119
+Build Tech layer 121
+Build Tech layer 123
+Build Tech layer 125
+Build Tech layer 127
+Simplifying copper layer polygons
+Simplify holes contours
+Build BVH for holes and vias
+Load Raytracing: board
+Load Raytracing: layers
+Loading 3D models...
+Reload time 0.100 s
+Rendering: 13 %
+Rendering: 27 %
+Rendering: 35 %
+Rendering: 45 %
+Rendering: 53 %
+Rendering: 64 %
+Rendering: 74 %
+Rendering: 84 %
+Rendering: 93 %
+Rendering: 100 %
+Rendering: Post processing shader
+Rendering time 3.998 s
+Successfully created 3D render image
+→ Exporting bottom render
+Loading…
+Build board outline
+
+Create layers
+Create tracks and vias
+Create zones
+Build Tech layers
+Build Tech layer 11
+Build Tech layer 9
+Build Tech layer 15
+Build Tech layer 13
+Build Tech layer 7
+Build Tech layer 5
+Build Tech layer 3
+Build Tech layer 1
+Build Tech layer 17
+Build Tech layer 19
+Build Tech layer 21
+Build Tech layer 23
+Build Tech layer 39
+Build Tech layer 41
+Build Tech layer 43
+Build Tech layer 45
+Build Tech layer 47
+Build Tech layer 49
+Build Tech layer 51
+Build Tech layer 53
+Build Tech layer 55
+Build Tech layer 57
+Build Tech layer 59
+Build Tech layer 61
+Build Tech layer 63
+Build Tech layer 65
+Build Tech layer 67
+Build Tech layer 69
+Build Tech layer 71
+Build Tech layer 73
+Build Tech layer 75
+Build Tech layer 77
+Build Tech layer 79
+Build Tech layer 81
+Build Tech layer 83
+Build Tech layer 85
+Build Tech layer 87
+Build Tech layer 89
+Build Tech layer 91
+Build Tech layer 93
+Build Tech layer 95
+Build Tech layer 97
+Build Tech layer 99
+Build Tech layer 101
+Build Tech layer 103
+Build Tech layer 105
+Build Tech layer 107
+Build Tech layer 109
+Build Tech layer 111
+Build Tech layer 113
+Build Tech layer 115
+Build Tech layer 117
+Build Tech layer 119
+Build Tech layer 121
+Build Tech layer 123
+Build Tech layer 125
+Build Tech layer 127
+Simplifying copper layer polygons
+Simplify holes contours
+Build BVH for holes and vias
+Load Raytracing: board
+Load Raytracing: layers
+Loading 3D models...
+Reload time 0.090 s
+Rendering: 13 %
+Rendering: 27 %
+Rendering: 35 %
+Rendering: 44 %
+Rendering: 52 %
+Rendering: 62 %
+Rendering: 72 %
+Rendering: 82 %
+Rendering: 92 %
+Rendering: 100 %
+Rendering: Post processing shader
+Rendering time 4.047 s
+Successfully created 3D render image
+→ Exporting isometric render
+Loading…
+Build board outline
+
+Create layers
+Create tracks and vias
+Create zones
+Build Tech layers
+Build Tech layer 11
+Build Tech layer 9
+Build Tech layer 15
+Build Tech layer 13
+Build Tech layer 7
+Build Tech layer 5
+Build Tech layer 3
+Build Tech layer 1
+Build Tech layer 17
+Build Tech layer 19
+Build Tech layer 21
+Build Tech layer 23
+Build Tech layer 39
+Build Tech layer 41
+Build Tech layer 43
+Build Tech layer 45
+Build Tech layer 47
+Build Tech layer 49
+Build Tech layer 51
+Build Tech layer 53
+Build Tech layer 55
+Build Tech layer 57
+Build Tech layer 59
+Build Tech layer 61
+Build Tech layer 63
+Build Tech layer 65
+Build Tech layer 67
+Build Tech layer 69
+Build Tech layer 71
+Build Tech layer 73
+Build Tech layer 75
+Build Tech layer 77
+Build Tech layer 79
+Build Tech layer 81
+Build Tech layer 83
+Build Tech layer 85
+Build Tech layer 87
+Build Tech layer 89
+Build Tech layer 91
+Build Tech layer 93
+Build Tech layer 95
+Build Tech layer 97
+Build Tech layer 99
+Build Tech layer 101
+Build Tech layer 103
+Build Tech layer 105
+Build Tech layer 107
+Build Tech layer 109
+Build Tech layer 111
+Build Tech layer 113
+Build Tech layer 115
+Build Tech layer 117
+Build Tech layer 119
+Build Tech layer 121
+Build Tech layer 123
+Build Tech layer 125
+Build Tech layer 127
+Simplifying copper layer polygons
+Simplify holes contours
+Build BVH for holes and vias
+Load Raytracing: board
+Load Raytracing: layers
+Loading 3D models...
+Reload time 0.092 s
+Rendering: 9 %
+Rendering: 22 %
+Rendering: 30 %
+Rendering: 37 %
+Rendering: 47 %
+Rendering: 58 %
+Rendering: 70 %
+Rendering: 80 %
+Rendering: 90 %
+Rendering: 100 %
+Rendering: Post processing shader
+Rendering time 4.094 s
+Successfully created 3D render image
+→ Exporting drill files
+Created file '/tmp/tmp.xsz22EpbOW/drill/2026-ProgBuddy.drl'
+Created file '/tmp/tmp.xsz22EpbOW/drill/2026-ProgBuddy-drl_map.pdf'.
+Done.
+→ Exporting STEP model
+Could not add 3D model for D1.
+File not found: ${KICAD10_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SMA.step
+Could not add 3D model for Q2.
+File not found: ${KICAD10_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.step
+Could not add 3D model for C8.
+File not found: ${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+Could not add 3D model for U5.
+File not found: ${KICAD10_3DMODEL_DIR}/Package_SO.3dshapes/MSOP-10_3x3mm_P0.5mm.step
+Could not add 3D model for R7.
+File not found: ${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step
+Could not add 3D model for R14.
+File not found: ${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step
+Could not add 3D model for Q5.
+File not found: ${KICAD10_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.step
+Could not add 3D model for C17.
+File not found: ${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+Could not add 3D model for U6.
+File not found: ${KICAD10_3DMODEL_DIR}/Package_SO.3dshapes/SSOP-28_3.9x9.9mm_P0.635mm.step
+Could not add 3D model for U2.
+File not found: ${KICAD10_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-60-1EP_7x7mm_P0.4mm_EP3.4x3.4mm.step
+Could not add 3D model for R1.
+File not found: ${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_Shunt_Vishay_WSKW0612.wrl
+Could not add 3D model for C6.
+File not found: ${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+Could not add 3D model for R8.
+File not found: ${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step
+Could not add 3D model for C7.
+File not found: ${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+Could not add 3D model for C12.
+File not found: ${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+Could not add 3D model for R13.
+File not found: ${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step
+Could not add 3D model for C14.
+File not found: ${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+Could not add 3D model for R12.
+File not found: ${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step
+Could not add 3D model for U7.
+File not found: ${KICAD10_3DMODEL_DIR}/Package_SO.3dshapes/MSOP-10_3x3mm_P0.5mm.step
+Could not add 3D model for U1.
+File not found: ${KICAD10_3DMODEL_DIR}/Package_SO.3dshapes/TSSOP-10_3x3mm_P0.5mm.step
+Could not add 3D model for C3.
+File not found: ${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+Could not add 3D model for R4.
+File not found: ${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step
+Could not add 3D model for U3.
+File not found: ${KICAD10_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-223.step
+Could not add 3D model for C16.
+File not found: ${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+Could not add 3D model for R9.
+File not found: ${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step
+Could not add 3D model for R5.
+File not found: ${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step
+Could not add 3D model for Q3.
+File not found: ${KICAD10_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.step
+Could not add 3D model for C11.
+File not found: ${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+Could not add 3D model for Y1.
+File not found: ${KICAD10_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm.step
+Could not add 3D model for J2.
+File not found: ${KICAD10_3DMODEL_DIR}/Connector.3dshapes/FanPinHeader_1x04_P2.54mm_Vertical.step
+Could not add 3D model for U4.
+File not found: ${KICAD10_3DMODEL_DIR}/Package_SO.3dshapes/TSSOP-16_4.4x5mm_P0.65mm.step
+Could not add 3D model for C18.
+File not found: ${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+Could not add 3D model for R3.
+File not found: ${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step
+Could not add 3D model for P1.
+File not found: ${KICAD10_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Plug_Molex_105444.step
+Could not add 3D model for D2.
+File not found: ${KICAD10_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SMA.step
+Could not add 3D model for R2.
+File not found: ${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step
+Could not add 3D model for Q6.
+File not found: ${KICAD10_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.step
+Could not add 3D model for R16.
+File not found: ${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step
+Could not add 3D model for R15.
+File not found: ${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step
+Could not add 3D model for C10.
+File not found: ${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+Could not add 3D model for C15.
+File not found: ${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+Could not add 3D model for R17.
+File not found: ${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step
+Could not add 3D model for C1.
+File not found: ${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+Could not add 3D model for C13.
+File not found: ${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+Could not add 3D model for R6.
+File not found: ${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step
+Could not add 3D model for C2.
+File not found: ${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+Could not add 3D model for C5.
+File not found: ${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+Could not add 3D model for C9.
+File not found: ${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+Could not add 3D model for Q4.
+File not found: ${KICAD10_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.step
+Could not add 3D model for R11.
+File not found: ${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step
+Could not add 3D model for C4.
+File not found: ${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+Could not add 3D model for Q1.
+File not found: ${KICAD10_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.step
+Could not add 3D model for R10.
+File not found: ${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step
+STEP file '/tmp/tmp.xsz22EpbOW/2026-ProgBuddy_board.step' created.
+
+Export time 0.736 s
+→ Exporting placement CSV
+Wrote position data to '/tmp/tmp.xsz22EpbOW/2026-ProgBuddy_placement.csv'.
+→ Exporting BOM CSV
+Wrote bill of materials to '/tmp/tmp.xsz22EpbOW/2026-ProgBuddy_bom.csv'.
+→ Generating Interactive HTML BOM
+→ Running InteractiveHtmlBom generate_interactive_bom...
+14:44:14: Debug: Adding duplicate image handler for 'PNG file'
+14:44:14: Debug: Adding duplicate image handler for 'JPEG file'
+14:44:14: Debug: Adding duplicate image handler for 'TIFF file'
+14:44:14: Debug: Adding duplicate image handler for 'GIF file'
+14:44:14: Debug: Adding duplicate image handler for 'PNM file'
+14:44:14: Debug: Adding duplicate image handler for 'PCX file'
+14:44:14: Debug: Adding duplicate image handler for 'IFF file'
+14:44:14: Debug: Adding duplicate image handler for 'Windows icon file'
+14:44:14: Debug: Adding duplicate image handler for 'Windows cursor file'
+14:44:14: Debug: Adding duplicate image handler for 'Windows animated cursor file'
+14:44:14: Debug: Adding duplicate image handler for 'TGA file'
+14:44:14: Debug: Adding duplicate image handler for 'XPM file'
+14:44:14: Debug: Adding duplicate image handler for 'PNG file'
+14:44:14: Debug: Adding duplicate image handler for 'JPEG file'
+14:44:14: Debug: Adding duplicate image handler for 'TIFF file'
+14:44:14: Debug: Adding duplicate image handler for 'GIF file'
+14:44:14: Debug: Adding duplicate image handler for 'PNM file'
+14:44:14: Debug: Adding duplicate image handler for 'PCX file'
+14:44:14: Debug: Adding duplicate image handler for 'IFF file'
+14:44:14: Debug: Adding duplicate image handler for 'Windows icon file'
+14:44:14: Debug: Adding duplicate image handler for 'Windows cursor file'
+14:44:14: Debug: Adding duplicate image handler for 'Windows animated cursor file'
+14:44:14: Debug: Adding duplicate image handler for 'TGA file'
+14:44:14: Debug: Adding duplicate image handler for 'XPM file'
+Loading ./2026-ProgBuddy.kicad_pcb
+2026-10-24 14:44:14,473 WARNING Assuming extra data file to be the pcb file since --extra-data-file was not specified.
+Loading ./2026-ProgBuddy.kicad_pcb
+2026-10-24 14:44:14,473 WARNING Assuming extra data file to be the pcb file since --extra-data-file was not specified.
+2026-10-24 14:44:14,558 INFO Compressing pcb data
+2026-10-24 14:44:14,558 INFO Compressing pcb data
+2026-10-24 14:44:14,638 INFO Dumping pcb data
+2026-10-24 14:44:14,638 INFO Dumping pcb data
+2026-10-24 14:44:14,640 INFO Created file /tmp/tmp.xsz22EpbOW/ibom.html
+2026-10-24 14:44:14,640 INFO Created file /tmp/tmp.xsz22EpbOW/ibom.html
+✓ Interactive BOM generated successfully
+→ Exporting Gerbers
+Plotted to '/tmp/tmp.xsz22EpbOW/gerbers/2026-ProgBuddy-F_Cu.gtl'.
+Plotted to '/tmp/tmp.xsz22EpbOW/gerbers/2026-ProgBuddy-In1_Cu.g1'.
+Plotted to '/tmp/tmp.xsz22EpbOW/gerbers/2026-ProgBuddy-In2_Cu.g2'.
+Plotted to '/tmp/tmp.xsz22EpbOW/gerbers/2026-ProgBuddy-B_Cu.gbl'.
+Plotted to '/tmp/tmp.xsz22EpbOW/gerbers/2026-ProgBuddy-F_Paste.gtp'.
+Plotted to '/tmp/tmp.xsz22EpbOW/gerbers/2026-ProgBuddy-B_Paste.gbp'.
+Plotted to '/tmp/tmp.xsz22EpbOW/gerbers/2026-ProgBuddy-F_Silkscreen.gto'.
+Plotted to '/tmp/tmp.xsz22EpbOW/gerbers/2026-ProgBuddy-B_Silkscreen.gbo'.
+Plotted to '/tmp/tmp.xsz22EpbOW/gerbers/2026-ProgBuddy-F_Mask.gts'.
+Plotted to '/tmp/tmp.xsz22EpbOW/gerbers/2026-ProgBuddy-B_Mask.gbs'.
+Plotted to '/tmp/tmp.xsz22EpbOW/gerbers/2026-ProgBuddy-Edge_Cuts.gm1'.
+→ Exporting Drill Files (JLCPCB-compatible Excellon)
+Created file '/tmp/tmp.xsz22EpbOW/gerbers/2026-ProgBuddy.drl'
+Done.
+→ Removing Gerber Job file (if present)
+→ Zipping Gerbers and Drill Files
+→ Writing report.txt
+→ Moving files to final output directory
